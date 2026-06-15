@@ -1,0 +1,15 @@
+{
+  "trained_at": "2026-06-15T21:33:42.039943",
+  "training_rows": 4704,
+  "target_market": "Retail_Pettah",
+  "random_forest": {
+    "MAE": 8.2827,
+    "RMSE": 18.8205,
+    "R2": 0.987
+  },
+  "linear_regression": {
+    "MAE": 16.443,
+    "RMSE": 24.179,
+    "R2": 0.9785
+  }
+}
